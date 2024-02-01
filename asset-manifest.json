@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio-MinhPhuong/static/css/main.4da8c6ed.css",
-    "main.js": "/Portfolio-MinhPhuong/static/js/main.d3caea12.js",
-    "static/media/Le-Nguyen-Duy-Nghia-CV.pdf": "/Portfolio-MinhPhuong/static/media/Le-Nguyen-Duy-Nghia-CV.05cf6d492d8ec6b62129.pdf",
-    "index.html": "/Portfolio-MinhPhuong/index.html",
-    "main.4da8c6ed.css.map": "/Portfolio-MinhPhuong/static/css/main.4da8c6ed.css.map",
-    "main.d3caea12.js.map": "/Portfolio-MinhPhuong/static/js/main.d3caea12.js.map"
+    "main.css": "/portfolio-minhphuong/static/css/main.4da8c6ed.css",
+    "main.js": "/portfolio-minhphuong/static/js/main.afbc6359.js",
+    "static/media/Le-Nguyen-Duy-Nghia-CV.pdf": "/portfolio-minhphuong/static/media/Le-Nguyen-Duy-Nghia-CV.05cf6d492d8ec6b62129.pdf",
+    "index.html": "/portfolio-minhphuong/index.html",
+    "main.4da8c6ed.css.map": "/portfolio-minhphuong/static/css/main.4da8c6ed.css.map",
+    "main.afbc6359.js.map": "/portfolio-minhphuong/static/js/main.afbc6359.js.map"
   },
   "entrypoints": [
     "static/css/main.4da8c6ed.css",
-    "static/js/main.d3caea12.js"
+    "static/js/main.afbc6359.js"
   ]
 }
