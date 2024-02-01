@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio-minhphuong/static/css/main.4da8c6ed.css",
-    "main.js": "/portfolio-minhphuong/static/js/main.afbc6359.js",
-    "static/media/Le-Nguyen-Duy-Nghia-CV.pdf": "/portfolio-minhphuong/static/media/Le-Nguyen-Duy-Nghia-CV.05cf6d492d8ec6b62129.pdf",
+    "main.js": "/portfolio-minhphuong/static/js/main.0e3fa028.js",
+    "static/media/NguyenMinhPhuongBackendDeveloper.pdf": "/portfolio-minhphuong/static/media/NguyenMinhPhuongBackendDeveloper.d2fb542b6257a904096c.pdf",
     "index.html": "/portfolio-minhphuong/index.html",
     "main.4da8c6ed.css.map": "/portfolio-minhphuong/static/css/main.4da8c6ed.css.map",
-    "main.afbc6359.js.map": "/portfolio-minhphuong/static/js/main.afbc6359.js.map"
+    "main.0e3fa028.js.map": "/portfolio-minhphuong/static/js/main.0e3fa028.js.map"
   },
   "entrypoints": [
     "static/css/main.4da8c6ed.css",
-    "static/js/main.afbc6359.js"
+    "static/js/main.0e3fa028.js"
   ]
 }
