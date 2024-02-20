@@ -5,7 +5,7 @@ export const ContactData = [
   },
   {
     description: "github",
-    data: "https://github.com/NguyenMinhPhuong23",
+    data: "https://github.com/phuongnguyen233",
   },
   {
     description: "phone#",

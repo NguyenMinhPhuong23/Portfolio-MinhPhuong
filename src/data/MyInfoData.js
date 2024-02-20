@@ -35,6 +35,7 @@ export const MyInfoData = [
       "NodeJS",
       "NestJS",
       "MongoDB",
+      "Reactjs"
     ],
   },
   {
