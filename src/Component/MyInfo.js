@@ -1,5 +1,5 @@
 import "../Styles/MyInfoStyles.css";
-import resumepdf from "../Resume/NguyenMinhPhuongBackendDeveloper.pdf";
+import resumepdf from "../Resume/NguyễnMinhPhương_InternNodeJS.pdf";
 import { MyInfoData } from "../data/MyInfoData";
 import MySkills from "./MySKills";
 import MyPersonality from "./MyPersonality";
